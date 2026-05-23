@@ -35,6 +35,7 @@ const SERVICES_DATA: Record<string, Record<string, {
   about: string;
   benefits: { icon: string; title: string; desc: string }[];
   steps: { title: string; desc: string }[];
+  faqs?: { question: string; answer: string }[];
   recommendation?: string;
   bookUrl: string;
   image: string;
