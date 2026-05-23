@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "services": "Servicii",
+    "about": "Despre Noi",
+    "contact": "Contact",
+    "book": "Rezervă"
+  },
+  "home": {
+    "hero_eyebrow": "Salon Afrodita · Chișinău · din 1999",
+    "hero_title": "Frumusețea ta,",
+    "hero_title2": "Arta noastră.",
+    "hero_sub": "Salon premium în Chișinău — îngrijire facială, laser, injectabile și masaj.",
+    "cta": "Descoperă Serviciile",
+    "book": "Rezervă Acum",
+    "hero_badge_year": "26",
+    "hero_badge_text": "Ani de<br/>Excelență",
+    "why_label": "De ce Afrodita?",
+    "why_title": "26+ ani de expertiză",
+    "why_years_title": "26+ Ani",
+    "why_years_desc": "Expertiză acumulată din 1999 în inima Chișinăului.",
+    "why_staff_title": "Specialiști Certificați",
+    "why_staff_desc": "Echipă formată și atestată continuu.",
+    "why_tech_title": "Tehnologii Premium",
+    "why_tech_desc": "Echipamente de top: Fotona, HydraFacial, Soprano Ice.",
+    "why_care_title": "Abordare Personalizată",
+    "why_care_desc": "Fiecare tratament adaptat nevoilor tale unice.",
+    "cta_band_title": "Gata să descoperi cel mai bun ten al tău?",
+    "cta_band_sub": "Rezervă o consultație gratuită astăzi."
+  },
+  "services": {
+    "title": "Serviciile Noastre",
+    "sub": "Tratamente premium realizate de specialiști certificați",
+    "from": "De la",
+    "mdl": "MDL",
+    "book": "Rezervă Acum",
+    "details": "Detalii",
+    "tabs": {
+      "about": "Despre",
+      "benefits": "Beneficii",
+      "steps": "Etape"
+    }
+  },
+  "about": {
+    "title": "Afrodita — locul unde frumusețea prinde glas.",
+    "sub": "Iar ea cântă în armonie cu fericirea ta!",
+    "story": "Salonul Afrodita este locul unde frumusețea capătă voce. Nu zgomotos sau forțat, ci delicat, ca muzica unui instrument cu coarde. Fiecare atingere a unui specialist este o notă. Fiecare procedură — o melodie compusă special pentru tine.",
+    "heritage_title": "Afrodita – din 1999",
+    "heritage": "Am început ca un salon de frumusețe în inima Chișinăului, dar am devenit un spațiu în care oamenii regăsesc încrederea, zâmbetul și versiunea lor autentică.",
+    "team": "Echipa noastră este ca o orchestră bine acordată — fiecare specialist contribuie la o simfonie a eleganței și echilibrului.",
+    "team_title": "Echipa Noastră"
+  },
+  "contact": {
+    "title": "Contactează-ne",
+    "sub": "Suntem aici pentru a te ajuta să îți evidențiezi frumusețea naturală.",
+    "address_title": "Adresa",
+    "address": "Str. 31 August 1989, 79/1, of. 24, Chișinău, Moldova",
+    "hours_title": "Orele de Lucru",
+    "hours_week": "Luni–Vineri: 09:00 – 20:00",
+    "hours_weekend": "Sâmbătă–Duminică: 09:00 – 18:00",
+    "contact_title": "Contact",
+    "book": "Rezervă o Programare",
+    "welcome": "Suntem bucuroși să te primim! Programează-te acum."
+  },
+  "footer": {
+    "rights": "Toate drepturile rezervate.",
+    "tagline_1": "Salon premium în Chișinău",
+    "tagline_2": "din 1999",
+    "services": "Servicii",
+    "contact": "Contact"
+  },
+  "lang": {
+    "ro": "Română",
+    "ru": "Русский",
+    "en": "English"
+  }
+}

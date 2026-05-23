@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "book": "Book Now"
+  },
+  "home": {
+    "hero_eyebrow": "Salon Afrodita · Chișinău · since 1999",
+    "hero_title": "Your Beauty,",
+    "hero_title2": "Our Art.",
+    "hero_sub": "Premium salon in Chișinău — facial care, laser, injectables & massage.",
+    "cta": "Explore Services",
+    "book": "Book Now",
+    "hero_badge_year": "26",
+    "hero_badge_text": "Years of<br/>Excellence",
+    "why_label": "Why Afrodita?",
+    "why_title": "26+ years of expertise",
+    "why_years_title": "26+ Years",
+    "why_years_desc": "Expertise gathered since 1999 in the heart of Chișinău.",
+    "why_staff_title": "Certified Specialists",
+    "why_staff_desc": "Continuously trained and certified team.",
+    "why_tech_title": "Premium Technologies",
+    "why_tech_desc": "Top equipment: Fotona, HydraFacial, Soprano Ice.",
+    "why_care_title": "Personalized Approach",
+    "why_care_desc": "Each treatment tailored to your unique needs.",
+    "cta_band_title": "Ready to discover your best skin?",
+    "cta_band_sub": "Book a free consultation today."
+  },
+  "services": {
+    "title": "Our Services",
+    "sub": "Premium treatments by certified specialists",
+    "from": "From",
+    "mdl": "MDL",
+    "book": "Book Now",
+    "details": "Details",
+    "tabs": {
+      "about": "About",
+      "benefits": "Benefits",
+      "steps": "Steps"
+    }
+  },
+  "about": {
+    "title": "Afrodita — where beauty finds its voice.",
+    "sub": "And it sings in harmony with your happiness!",
+    "story": "Salon Afrodita is the place where beauty finds its voice. Not loud or forced, but gentle, like the music of a stringed instrument. Every touch of a specialist is a note. Every procedure — a melody composed especially for you.",
+    "heritage_title": "Afrodita – since 1999",
+    "heritage": "We started as a beauty salon in the heart of Chișinău, and became a space where people rediscover their confidence, smile, and authentic selves.",
+    "team": "Our team is like a well-tuned orchestra — each specialist contributes to a symphony of elegance and balance.",
+    "team_title": "Our Team"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "sub": "We're here to help you highlight your natural beauty.",
+    "address_title": "Address",
+    "address": "Str. 31 August 1989, 79/1, of. 24, Chișinău, Moldova",
+    "hours_title": "Working Hours",
+    "hours_week": "Mon–Fri: 09:00 – 20:00",
+    "hours_weekend": "Sat–Sun: 09:00 – 18:00",
+    "contact_title": "Contact",
+    "book": "Book an Appointment",
+    "welcome": "We are happy to welcome you! Book now."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline_1": "Premium salon in Chișinău",
+    "tagline_2": "since 1999",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "lang": {
+    "ro": "Română",
+    "ru": "Русский",
+    "en": "English"
+  }
+}
