@@ -6,8 +6,8 @@ const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 const nextConfig = {
   images: {
     remotePatterns: [
-      { protocol: 'https', hostname: 'images.unsplash.com' },
-      { protocol: 'https', hostname: 'lh3.googleusercontent.com' }
+      { protocol: 'https', hostname: 'images.unsplash.com', pathname: '/**' },
+      { protocol: 'https', hostname: 'lh3.googleusercontent.com', pathname: '/**' }
     ],
   },
   async headers() {
